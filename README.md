@@ -9,4 +9,4 @@ m-ildefons/m-ildefons is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=m-ildefons&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m-ildefons&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
