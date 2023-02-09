@@ -1,7 +1,8 @@
-👋 Hi, ask me about System Administration and DevOps </br>
-📫 How to reach me:
-- [Email](mailto:moritz@ildefons.de)
-- [Xing](https://www.xing.com/profile/Moritz_Roehrich)
+👋 Hi, I'm an engineer at SUSE.
+
+🐧 I like all things around Linux and Open Source.
+
+📫 You can reach me by [email](mailto:moritz.rohrich@suse.com)
 
 
 <!---
